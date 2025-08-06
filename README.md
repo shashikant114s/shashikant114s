@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shashi Kumar!
 
-<!--
-**shashikant114s/shashikant114s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a .NET MAUI developer transitioning into **DevOps Engineering**  
+🚀 Passionate about **CI/CD**, **AWS**, **Shell Scripting**, and **Kubernetes**  
+📘 Documenting my journey via **GitHub Learning Logs & Real Projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+| DevOps & Tools             | Cloud & Infra         | Programming            | Version Control  |
+|---------------------------|------------------------|------------------------|------------------|
+| Jenkins, GitHub Actions   | AWS (EC2, EKS, CLI), Kubernetes | Bash, Python, YAML, C# | Git, GitHub       |
+
+---
+
+## 📂 Featured Repositories
+
+- 🦸‍♂️ [superhero-webapi](https://github.com/shashikant114s/superhero-webapi)  
