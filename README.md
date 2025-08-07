@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Shashi Kumar!
 
-🌱 I'm a .NET MAUI developer transitioning into **DevOps Engineering**  
 🚀 Passionate about **CI/CD**, **AWS**, **Shell Scripting**, and **Kubernetes**  
 📘 Documenting my journey via **GitHub Learning Logs & Real Projects**
 
